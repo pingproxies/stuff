@@ -1,0 +1,38 @@
+{
+  "PING PROXIES": {
+    "discordguildcode": "321344",
+    "passwordlogin":"jkwdjiwod",
+    "releasetime": "11-10-2019 12:12:11",
+    "Product Name": "Residential Data",
+    "Product Ecwid Code": "48932442EXAMPLE",
+    "Stock": "High",
+    "Options":[ {
+      "type": "Bandwidth",
+      "quantity": "1 GB",
+      "optionprice": 12.50},
+      {
+      "type": "Bandwidth",
+      "quantity": "2 GB",
+      "optionprice": 25}]
+      
+      
+    },
+    "EXAMPLE GROUP 2": {
+    "discordguildcode": "321344",
+    "passwordlogin":"jkwdjiwod",
+    "releasetime": "11-10-2019 12:12:11",
+    "Product Name": "Residential Data",
+    "Product Ecwid Code": "48932442EXAMPLE",
+    "Stock": "High",
+    "Options":[ {
+      "type": "Bandwidth",
+      "quantity": "1 GB",
+      "optionprice": 12.50},
+      {
+      "type": "Bandwidth",
+      "quantity": "2 GB",
+      "optionprice": 25}]
+      
+      
+    }
+  }
